@@ -21,7 +21,7 @@ JavaScript中的this陷阱的最全收集--没有之一|http://segmentfault.com/
 JS函数式编程指南|https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html
 JavaScript Promise迷你书（中文版）|http://liubin.github.io/promises-book
 腾讯移动Web前端知识库|https://github.com/AlloyTeam/Mars
-Front-End-Develop-Guide 前端开发指南|https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide
+Front-End-Develop-Guide 前端开发指南|https://github.com/mulgore/Front-End-Develop-Guide
 前端开发笔记本|https://li-xinyang.gitbooks.io/frontend-notebook/content
 大前端工具集 - 聂微东|https://github.com/nieweidong/fetool
 前端开发者手册|https://dwqs.gitbooks.io/frontenddevhandbook/content
